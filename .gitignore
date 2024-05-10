@@ -2,3 +2,6 @@
 *.net
 
 !one.txt
+
+
+[aeious]*.php
